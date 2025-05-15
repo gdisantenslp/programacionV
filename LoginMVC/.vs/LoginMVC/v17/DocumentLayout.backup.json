@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\ETL\\LoginMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\loginmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\loginmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\fakedb\\fakeuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\fakedb\\fakeuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|c:\\repos\\etl\\loginmvc\\loginmvc\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A347F-3A4E-4E22-850C-05907B8234C4}|LoginMVC\\LoginMVC.csproj|solutionrelative:loginmvc\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:59:31.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginMVC",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\LoginMVC.csproj",
+              "RelativeDocumentMoniker": "LoginMVC\\LoginMVC.csproj",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\LoginMVC.csproj",
+              "RelativeToolTip": "LoginMVC\\LoginMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T18:56:28.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:50:31.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Program.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\Program.cs",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Program.cs",
+              "RelativeToolTip": "LoginMVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:44:01.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADgvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:38:02.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T19:06:04.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fakeUserDB.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\FakeDB\\fakeUserDB.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\FakeDB\\fakeUserDB.cs",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\FakeDB\\fakeUserDB.cs",
+              "RelativeToolTip": "LoginMVC\\FakeDB\\fakeUserDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:35:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "LoginMVC\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Repos\\ETL\\LoginMVC\\LoginMVC\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "LoginMVC\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:34:21.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

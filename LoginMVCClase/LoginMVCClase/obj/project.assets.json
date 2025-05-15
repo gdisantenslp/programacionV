@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\ETL\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
+      "projectUniqueName": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
       "projectName": "LoginMVCClase",
-      "projectPath": "C:\\Repos\\ETL\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
+      "projectPath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\ETL\\LoginMVCClase\\LoginMVCClase\\obj\\",
+      "outputPath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

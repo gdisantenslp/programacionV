@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|c:\\repos\\etl\\ejercicioenclase-modelo\\ejercicioenclase-modelo\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|solutionrelative:ejercicioenclase-modelo\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|c:\\repos\\etl\\ejercicioenclase-modelo\\ejercicioenclase-modelo\\logic\\dbinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|solutionrelative:ejercicioenclase-modelo\\logic\\dbinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|c:\\repos\\etl\\ejercicioenclase-modelo\\ejercicioenclase-modelo\\data\\estudiantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|solutionrelative:ejercicioenclase-modelo\\data\\estudiantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|c:\\repos\\etl\\ejercicioenclase-modelo\\ejercicioenclase-modelo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|solutionrelative:ejercicioenclase-modelo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|c:\\repos\\etl\\ejercicioenclase-modelo\\ejercicioenclase-modelo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|solutionrelative:ejercicioenclase-modelo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|c:\\repos\\etl\\ejercicioenclase-modelo\\ejercicioenclase-modelo\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|solutionrelative:ejercicioenclase-modelo\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|c:\\repos\\etl\\ejercicioenclase-modelo\\ejercicioenclase-modelo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B654D34-1920-424F-A4F9-F1CB7463A665}|EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo.csproj|solutionrelative:ejercicioenclase-modelo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteContext.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Data\\EstudianteContext.cs",
+              "RelativeDocumentMoniker": "EjercicioEnClase-Modelo\\Data\\EstudianteContext.cs",
+              "ToolTip": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Data\\EstudianteContext.cs",
+              "RelativeToolTip": "EjercicioEnClase-Modelo\\Data\\EstudianteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:43:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "EjercicioEnClase-Modelo\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "EjercicioEnClase-Modelo\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:42:46.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EjercicioEnClase-Modelo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EjercicioEnClase-Modelo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T21:50:06.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBInteraction.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Logic\\DBInteraction.cs",
+              "RelativeDocumentMoniker": "EjercicioEnClase-Modelo\\Logic\\DBInteraction.cs",
+              "ToolTip": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Logic\\DBInteraction.cs",
+              "RelativeToolTip": "EjercicioEnClase-Modelo\\Logic\\DBInteraction.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvycAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:57:02.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\appsettings.json",
+              "RelativeDocumentMoniker": "EjercicioEnClase-Modelo\\appsettings.json",
+              "ToolTip": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\appsettings.json",
+              "RelativeToolTip": "EjercicioEnClase-Modelo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T21:44:49.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EjercicioEnClase-Modelo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EjercicioEnClase-Modelo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:38:01.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "EjercicioEnClase-Modelo\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Repos\\ETL\\EjercicioEnClase-Modelo\\EjercicioEnClase-Modelo\\Models\\Estudiante.cs",
+              "RelativeToolTip": "EjercicioEnClase-Modelo\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:35:37.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

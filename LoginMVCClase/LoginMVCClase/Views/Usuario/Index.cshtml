@@ -1,0 +1,50 @@
+﻿<form asp-controller="Usuario" asp-action="ForMethod" method="get">
+
+    <label>Username:</label>
+    <input type="text" name="username" />
+
+    <label>Password:</label>
+    <input type="password" name="password" />
+
+    <label>email:</label>
+    <input type="text" name="email" />
+
+    <label>Name:</label>
+    <input type="text" name="name" />
+
+    <label>Fecha Nacimiento:</label>
+    <input type="text" name="fechanacimiento" />
+
+
+    <button type="submit">Cargar y obtener Usuarios</button>
+</form>
+
+
+@if (ViewBag.ListaUsuarios != null)
+{
+    <table border="1">
+        <tr>
+            <th>Id</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Name</th>
+            <th>Fecha de Nacimiento</th>
+        </tr>
+        @foreach (var usuario in ViewBag.ListaUsuarios)
+        {
+            <tr>
+                <td>@usuario.id</td>
+                <td>@usuario.username</td>
+                <td>@usuario.email</td>
+                <td>@usuario.name</td>
+                <td>@usuario.fechanacimiento</td>
+            </tr>
+        }
+    </table>
+}
+
+@if (ViewBag.Error != null )
+{
+    <h1>Error con la autenticacion o cualquier cosa</h1>
+    
+}

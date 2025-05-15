@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var username = Context.Session.GetString("User");
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2>@username</h2> <!-- 👈 Mostramos el valor de sesión -->
+
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
