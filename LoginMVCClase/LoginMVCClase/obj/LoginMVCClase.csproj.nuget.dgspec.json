@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj": {}
+    "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj": {}
   },
   "projects": {
-    "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj": {
+    "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
+        "projectUniqueName": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
         "projectName": "LoginMVCClase",
-        "projectPath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
+        "projectPath": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\obj\\",
+        "outputPath": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.0-preview1.25120.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

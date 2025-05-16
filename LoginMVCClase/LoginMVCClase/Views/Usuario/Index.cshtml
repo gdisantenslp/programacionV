@@ -20,31 +20,16 @@
 </form>
 
 
-@if (ViewBag.ListaUsuarios != null)
+
+@if (ViewBag.Mensaje != null)
 {
-    <table border="1">
-        <tr>
-            <th>Id</th>
-            <th>Username</th>
-            <th>Email</th>
-            <th>Name</th>
-            <th>Fecha de Nacimiento</th>
-        </tr>
-        @foreach (var usuario in ViewBag.ListaUsuarios)
-        {
-            <tr>
-                <td>@usuario.id</td>
-                <td>@usuario.username</td>
-                <td>@usuario.email</td>
-                <td>@usuario.name</td>
-                <td>@usuario.fechanacimiento</td>
-            </tr>
-        }
-    </table>
+    <h1 style="color:green">@ViewBag.Mensaje </h1>
+
 }
+
 
 @if (ViewBag.Error != null )
 {
-    <h1>Error con la autenticacion o cualquier cosa</h1>
+    <h1>@ViewBag.Error </h1>
     
 }
