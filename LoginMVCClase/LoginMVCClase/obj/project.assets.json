@@ -1735,11 +1735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
+      "projectUniqueName": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
       "projectName": "LoginMVCClase",
-      "projectPath": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
+      "projectPath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\obj\\",
+      "outputPath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1754,7 +1754,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/AutoScheduler-AI/DeepAzure/_packaging/AutoScheduler-NuGet/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {

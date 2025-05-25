@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "12TmdLK9PJM=",
+  "dgSpecHash": "Lt2uWa1azSw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
+  "projectFilePath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\LoginMVCClase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.identity\\1.13.2\\azure.identity.1.13.2.nupkg.sha512",

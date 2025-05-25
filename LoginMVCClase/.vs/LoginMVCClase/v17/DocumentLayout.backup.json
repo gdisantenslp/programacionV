@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\",
+  "WorkspaceRootPath": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\users\\msi\\documents\\nslp\\loginmvcclase\\loginmvcclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\users\\msi\\documents\\nslp\\loginmvcclase\\loginmvcclase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\users\\msi\\documents\\nslp\\loginmvcclase\\loginmvcclase\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\users\\msi\\documents\\nslp\\loginmvcclase\\loginmvcclase\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|c:\\reponslp\\programacionv\\loginmvcclase\\loginmvcclase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D253579-6A7D-402C-BB95-5CE165460426}|LoginMVCClase\\LoginMVCClase.csproj|solutionrelative:loginmvcclase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,23 +47,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\Program.cs",
-              "RelativeDocumentMoniker": "LoginMVCClase\\Program.cs",
-              "ToolTip": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\Program.cs",
-              "RelativeToolTip": "LoginMVCClase\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T22:34:31.512Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginMVCClase\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "LoginMVCClase\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T22:33:16.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginMVCClase\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginMVCClase\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T22:31:53.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginMVCClase\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "LoginMVCClase\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T22:30:14.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Editar.cshtml",
+              "RelativeDocumentMoniker": "LoginMVCClase\\Views\\Usuario\\Editar.cshtml",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Editar.cshtml",
+              "RelativeToolTip": "LoginMVCClase\\Views\\Usuario\\Editar.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T22:02:22.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Program.cs",
+              "RelativeDocumentMoniker": "LoginMVCClase\\Program.cs",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Program.cs",
+              "RelativeToolTip": "LoginMVCClase\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:34:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\appsettings.json",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\appsettings.json",
               "RelativeDocumentMoniker": "LoginMVCClase\\appsettings.json",
-              "ToolTip": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\appsettings.json",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\appsettings.json",
               "RelativeToolTip": "LoginMVCClase\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -55,25 +119,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Lista.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Lista.cshtml",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Lista.cshtml",
               "RelativeDocumentMoniker": "LoginMVCClase\\Views\\Usuario\\Lista.cshtml",
-              "ToolTip": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Lista.cshtml",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Views\\Usuario\\Lista.cshtml",
               "RelativeToolTip": "LoginMVCClase\\Views\\Usuario\\Lista.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAMwA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T22:11:58.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "LoginMVCClase\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\MSI\\Documents\\NSLP\\LoginMVCClase\\LoginMVCClase\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\RepoNSLP\\programacionV\\LoginMVCClase\\LoginMVCClase\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "LoginMVCClase\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T22:11:56.819Z"
             }
